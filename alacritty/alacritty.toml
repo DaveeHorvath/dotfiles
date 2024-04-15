@@ -1,0 +1,49 @@
+[font]
+builtin_box_drawing = true
+size = 12.0
+
+[font.normal]
+family = "MesloLGM Nerd Font"
+
+[font.bold_italic]
+style = "Bold"
+
+[font.italic]
+style = "Bold"
+
+[[keyboard.bindings]]
+action = "SpawnNewInstance"
+key = "Return"
+mods = "Control"
+
+[window]
+dynamic_padding = true
+opacity = 0.9
+
+[window.padding]
+x = 16
+y = 16
+
+[colors.primary]
+background	=	'#000000'
+foreground	=	'#FFFFFF'
+
+[colors.normal]
+black	=	'#000000'
+red		=	'#FC1A70'
+green	=	'#A4E400'
+yellow	=	'#FFFF87'
+blue	=	'#62D8F1'
+magenta	=	'#FF9700'
+cyan	=	'#AF87FF'
+white	=	'#C4C4C4'
+
+[colors.bright]
+black	=	'#000000'
+red		=	'#FC1A70'
+green	=	'#A4E400'
+yellow	=	'#FFFF87'
+blue	=	'#62D8F1'
+magenta	=	'#FF9700'
+cyan	=	'#AF87FF'
+white	=	'#C4C4C4'
