@@ -19,6 +19,8 @@ mods = "Control"
 [window]
 dynamic_padding = true
 opacity = 0.9
+dimensions = {columns = 200, lines = 450}
+position = {x = 0, y = 0}
 
 [window.padding]
 x = 16
